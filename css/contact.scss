@@ -1,0 +1,41 @@
+h1{
+    padding: 50px;
+    font-size: 4vw;
+    text-align: center;
+}
+#details{
+    text-align: center;
+    padding: 30px;
+    display: flex;
+    div{
+        width: 300px;
+    }
+    i{
+        font-size: 40px;
+    }
+    h2{
+        font-size: 20px;
+        padding: 10px;
+    }
+    p{
+        padding: 0 10px;
+    }
+}
+#bottom{
+    margin: 30px 100px;
+    background-color: yellow;
+    height: 600px;
+    #box{
+        h2{
+            margin: 50px;
+        }
+        input{
+            display: block;
+            height: 50px;
+            margin: 20px;
+        }
+        textarea{
+            display: block;
+        }
+    }
+}

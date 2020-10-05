@@ -1,0 +1,43 @@
+h1 {
+  padding: 50px;
+  font-size: 4vw;
+  text-align: center;
+}
+
+#details {
+  text-align: center;
+  padding: 30px;
+  display: flex;
+}
+#details div {
+  width: 300px;
+}
+#details i {
+  font-size: 40px;
+}
+#details h2 {
+  font-size: 20px;
+  padding: 10px;
+}
+#details p {
+  padding: 0 10px;
+}
+
+#bottom {
+  margin: 30px 100px;
+  background-color: yellow;
+  height: 600px;
+}
+#bottom #box h2 {
+  margin: 50px;
+}
+#bottom #box input {
+  display: block;
+  height: 50px;
+  margin: 20px;
+}
+#bottom #box textarea {
+  display: block;
+}
+
+/*# sourceMappingURL=contact.css.map */

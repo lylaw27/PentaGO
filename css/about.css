@@ -1,0 +1,78 @@
+* {
+  line-height: 1.5;
+  font-size: 0;
+}
+
+p {
+  font-size: medium;
+}
+
+h1 {
+  font-size: 4vw;
+}
+
+img {
+  height: 100%;
+  vertical-align: text-bottom;
+}
+
+#top {
+  height: 700px;
+  background-image: url("about1.jpg");
+  background-position: fixed;
+  background-size: cover;
+  text-align: justify;
+  padding: 200px 0 0 100px;
+}
+#top p {
+  width: 450px;
+}
+
+.service1 {
+  height: 600px;
+  display: inline-flex;
+}
+.service1 div {
+  text-align: justify;
+  padding: 150px 100px 0 150px;
+}
+
+.service2 {
+  height: 500px;
+  display: inline-flex;
+  background-color: #383838;
+  color: white;
+}
+.service2 .content {
+  text-align: justify;
+  padding: 100px 200px 0 150px;
+}
+.service2 .content div {
+  display: flex;
+  align-items: center;
+}
+.service2 .content div i {
+  font-size: 50px;
+  width: 100px;
+  padding: 30px 70px 30px 0;
+}
+
+.service3 {
+  height: 500px;
+  display: inline-flex;
+}
+.service3 .content {
+  text-align: justify;
+  padding: 100px 200px 0 150px;
+}
+.service3 .content div {
+  display: flex;
+  align-items: center;
+}
+.service3 .content div i {
+  font-size: 50px;
+  width: 100px;
+  padding: 30px 70px 30px 0;
+}
+
+/*# sourceMappingURL=about.css.map */
